@@ -1,5 +1,5 @@
 {
-    "name": "H-O-O-H",
+    "name": "666888x",
     "description": "Deploy on Heroku.",
     "keywords": ["VLESS"],
     "env": {
@@ -8,6 +8,6 @@
             "value": "<--Enter your UUID!-->"
         }
     },
-    "repository": "H-O-O-H",
+    "repository": "666888x",
     "stack": "container"
 }
