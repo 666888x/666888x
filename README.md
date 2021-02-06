@@ -1,7 +1,7 @@
 # heroku-vless
 Deploy VLESS server to heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/H-O-O-H/H-O-O-H/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/666888x/666888x/tree/main)
 
 
 ```
